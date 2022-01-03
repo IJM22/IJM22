@@ -3,13 +3,16 @@ Software Engineer mainly working in .NET building distributed systems.
 
 Check my Linkedin profile [here.](https://www.linkedin.com/in/ivanjaraizmateo/)
 
-## Open Projects
+## ✨ Open Projects ✨
 
 - Project A
 - Project B
 - Project C
 - Project D
 
+## Contact
+
+ivan.jaraiz@gmail.com
 
 <!--
 **IJM22/IJM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
