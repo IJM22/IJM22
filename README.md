@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Iván Jaraiz. 
 
+This site was built using [Linkedin Pages](https://www.linkedin.com/in/ivanjaraizmateo/)
 <!--
 **IJM22/IJM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
