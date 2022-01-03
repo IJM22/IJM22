@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Iván Jaraiz. 
 Software Engineer mainly working in .NET building distributed systems. 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]
 
 Check my Linkedin profile [here.](https://www.linkedin.com/in/ivanjaraizmateo/)
 <!--
