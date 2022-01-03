@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Iván Jaraiz. 
-Software Engineer mainly working in .NET building distributed systems. 
+Software Engineer mainly working in C#/.NET , Python and C++. 
 
 Check my Linkedin profile [here.](https://www.linkedin.com/in/ivanjaraizmateo/)
 
