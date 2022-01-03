@@ -10,7 +10,7 @@ Check my Linkedin profile [here.](https://www.linkedin.com/in/ivanjaraizmateo/)
 - Project C
 - Project D
 
-## Contact
+## Contact ⚡
 
 ivan.jaraiz@gmail.com
 
